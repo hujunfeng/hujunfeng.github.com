@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://hujunfeng.github.com/blog/archives/</loc>
+        <loc>http://hujunfeng.net/blog/archives/</loc>
         <lastmod>2013-01-21T23:19:40+08:00</lastmod>
     </url>
     <url>
-        <loc>http://hujunfeng.github.com/</loc>
+        <loc>http://hujunfeng.net/</loc>
         <lastmod>2013-01-21T23:19:40+08:00</lastmod>
     </url>
     <url>
-        <loc>http://hujunfeng.github.com/robots.txt</loc>
+        <loc>http://hujunfeng.net/robots.txt</loc>
         <lastmod>2013-01-21T23:19:40+08:00</lastmod>
     </url>
 </urlset>

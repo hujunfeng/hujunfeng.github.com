@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://hujunfeng.github.com/sitemap.xml 
+Sitemap: http://hujunfeng.net/sitemap.xml 
